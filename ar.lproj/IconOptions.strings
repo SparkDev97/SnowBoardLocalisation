@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "مقدار حدة زارية مخصص";
+CUSTOM_ICON_SCALE = "مقاس أيقونة مخصص";
+HIDE_LABELS = "إخفاء التسميات";
+HIDE_LABEL_DOTS = "إخفاء نقاط التسمية";
+HIDE_ICON_TOUCH_OVERLAYS = "Hide Icon Touch Overlays";
+FORCE_LEGACY = "Force Legacy Compatibility";
+CLEAR_ALTERNATIVE_ICONS = "Clear Alternative Icons";
+FORCE_REFRESH = "تحديث إجباري";
+ICON_OPTIONS = "خيارات الأيقونة";
