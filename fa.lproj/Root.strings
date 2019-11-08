@@ -1,0 +1,6 @@
+ICON_SETTINGS = "تنظیمات آیکون ها";    
+ENABLED = "فعال شده";    
+SELECT_THEME = "تم را انتخاب کنید";    
+ICON_OPTIONS = "قابلیت آیکون ها";    
+FOLLOW_SPARK = "آیدی توییتر اسپارک: @SparkDev_";    
+FOLLOW_DENNIS = "آیدی توییتر دنیس: @DennisBednarz";
