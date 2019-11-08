@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "Simge köşe radyusu";
+CUSTOM_ICON_SCALE = "Simge boyut ayarlama";
+HIDE_LABELS = "Etiketi gizle";
+HIDE_LABEL_DOTS = "Etiket nokta gizle";
+HIDE_ICON_TOUCH_OVERLAYS = "Dokunma katmanı gizle";
+FORCE_LEGACY = "Eski görünümü zorla";
+CLEAR_ALTERNATIVE_ICONS = "Alternatif simgeleri temizle";
+FORCE_REFRESH = "Yenilemeyi zorla";
+ICON_OPTIONS = "Simge seçenekler";
