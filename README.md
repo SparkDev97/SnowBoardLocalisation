@@ -6,17 +6,23 @@ Simply submit a pull request or contact SparkDev on Discord or [Twitter][ST].
 
 # Contributions
 
-## German
-### Emy
-Twitter:
- 
-Discord: Emy#0001
-
 ## Chinese
 ### JJ
 Twitter: [@JJGadgets][JJT]
 
 Discord: JJGadgets#1337
+
+## German
+### Emy
+Twitter:
+
+Discord: Emy#0001
+
+## Russian
+### gkeep
+GitHub: [gkeep](https://github.com/gkeep)
+
+Discord: gkeep#2332
 
 ## Turkish
 ### MustyAslan99
