@@ -5,5 +5,13 @@ Let's localise SnowBoard!
 Simply submit a pull request or contact SparkDev on Discord or Twitter.
 
 # Contributions
-- Emy (German)
-- JJ (Chinese)
+
+## German
+### Emy
+: Twitter: 
+: Discord: Emy#0001
+
+## Chinese
+### JJ
+: Twitter: @JJGadgets
+: Discord: JJGadgets#1337
