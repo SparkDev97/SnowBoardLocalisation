@@ -12,6 +12,12 @@ Twitter:
  
 Discord: Emy#0001
 
+## Russian
+### gkeep
+GitHub: [gkeep](https://github.com/gkeep)
+
+Discord: gkeep#2332
+
 ## Chinese
 ### JJ
 Twitter: [@JJGadgets][JJT]
