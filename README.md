@@ -8,10 +8,10 @@ Simply submit a pull request or contact SparkDev on Discord or Twitter.
 
 ## German
 ### Emy
-: Twitter: 
-: Discord: Emy#0001
+Twitter: 
+Discord: Emy#0001
 
 ## Chinese
 ### JJ
-: Twitter: @JJGadgets
-: Discord: JJGadgets#1337
+Twitter: @JJGadgets
+Discord: JJGadgets#1337
