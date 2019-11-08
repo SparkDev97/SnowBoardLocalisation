@@ -1,4 +1,4 @@
-CUSTOM_CORNER_RADIUS = "مقدار حدة زارية مخصص";
+CUSTOM_CORNER_RADIUS = "مقدار حدة زاوية مخصص";
 CUSTOM_ICON_SCALE = "مقاس أيقونة مخصص";
 HIDE_LABELS = "إخفاء التسميات";
 HIDE_LABEL_DOTS = "إخفاء نقاط التسمية";
