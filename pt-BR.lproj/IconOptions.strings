@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "Personalizar Canto dos Ícones";
+CUSTOM_ICON_SCALE = "Persoanlizar Tamanho dos ìcones";
+HIDE_LABELS = "Ocultar Rótulos";
+HIDE_LABEL_DOTS = "Ocultar Dots nos Rótulos";
+HIDE_ICON_TOUCH_OVERLAYS = "Ocultar Sobreposições de Toque no Ícone";
+FORCE_LEGACY = "Forçar Compatibilidade Herdada";
+CLEAR_ALTERNATIVE_ICONS = "Limpar Ícones Alternativos";
+FORCE_REFRESH = "Forçar Atualização";
+ICON_OPTIONS = "Opções dos Ícones";
