@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "কাস্টম কর্নার ব্যাসার্ধ";
+CUSTOM_ICON_SCALE = "কাস্টম আইকন স্কেল";
+HIDE_LABELS = "লেবেলগুলি লুকান";
+HIDE_LABEL_DOTS = "লেবেল বিন্দুগুলি লুকান";
+HIDE_ICON_TOUCH_OVERLAYS = "আইকন টাচ ওভারলেগুলি লুকান";
+FORCE_LEGACY = "বাধ্যতামূলক লিগ্যাসি সামঞ্জস্যতা";
+CLEAR_ALTERNATIVE_ICONS = "বিকল্প আইকন সাফ করুন";
+FORCE_REFRESH = "রিফ্রেশ";
+ICON_OPTIONS = "আইকন বিকল্প";
