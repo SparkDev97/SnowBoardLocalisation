@@ -18,5 +18,11 @@ Twitter: [@JJGadgets][JJT]
 
 Discord: JJGadgets#1337
 
+## Turkish
+### MustyAslan99
+Twitter:
+
+Discord:
+
 [ST]: https://twitter.com/SparkDev_ "Spark's Twitter"
 [JJT]: https://twitter.com/JJGadgets "JJ's Twitter"
