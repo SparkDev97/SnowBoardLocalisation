@@ -1,0 +1,8 @@
+CUSTOM_CORNER_RADIUS = "Custom Corner Radius";
+CUSTOM_ICON_SCALE = "Custom Icon Scale";
+HIDE_LABELS = "Hide Labels";
+HIDE_LABEL_DOTS = "Hide Label Dots";
+HIDE_ICON_TOUCH_OVERLAYS = "Hide Icon Touch Overlays";
+FORCE_LEGACY = "Force Legacy Compatibility";
+CLEAR_ALTERNATIVE_ICONS = "Clear Alternative Icons";
+FORCE_REFRESH = "Force Refresh";
