@@ -1,8 +1,8 @@
-EXTENSIONS = "Extensions";
-EXTENSION = "Extension";
-THEMES = "Themes";
-GROUP = "Group";
-UNGROUP = "Ungroup";
+EXTENSIONS = "扩展";
+EXTENSION = "扩展";
+THEMES = "联合";
+GROUP = "联合";
+UNGROUP = "散开";
 RESPRING = "Respring";
 ENABLE = "Enable";
 DISABLE = "Disable";
