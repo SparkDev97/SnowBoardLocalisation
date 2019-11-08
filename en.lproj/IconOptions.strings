@@ -6,4 +6,4 @@ HIDE_ICON_TOUCH_OVERLAYS = "Hide Icon Touch Overlays";
 FORCE_LEGACY = "Force Legacy Compatibility";
 CLEAR_ALTERNATIVE_ICONS = "Clear Alternative Icons";
 FORCE_REFRESH = "Force Refresh";
-ICON_OPTIONS = "Icon Options...";
+ICON_OPTIONS = "Icon Options";
