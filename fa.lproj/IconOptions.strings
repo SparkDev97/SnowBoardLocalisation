@@ -1,9 +1,9 @@
-CUSTOM_CORNER_RADIUS = "تغییر گردی آیکون ها";
+CUSTOM_CORNER_RADIUS = "تغییر گردی گوشه ی  آیکون ها";
 CUSTOM_ICON_SCALE = "تغییر اندازه ی ایکون ها";
 HIDE_LABELS = "حذف نام ایکون ها";
-HIDE_LABEL_DOTS = "حذف نقطه ی آبی کنار برنامه ها";
+HIDE_LABEL_DOTS = "حذف نقطه ی آبی کنار برنامه های آپدیت شده";
 HIDE_ICON_TOUCH_OVERLAYS = "Hide Icon Touch Overlays";
 FORCE_LEGACY = "اجرای تم های قدیمی";
 CLEAR_ALTERNATIVE_ICONS = "Clear Alternative Icons";
-FORCE_REFRESH = "رفرش کردن";
-ICON_OPTIONS = "قابلیت های آیکون ها";
+FORCE_REFRESH = "بارگذاری مجدد";
+ICON_OPTIONS = "قابلیت آیکون ها";
