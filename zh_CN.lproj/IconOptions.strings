@@ -6,3 +6,4 @@ HIDE_ICON_TOUCH_OVERLAYS = "隐藏点击图标罩子";
 FORCE_LEGACY = "确保旧款兼容性";
 CLEAR_ALTERNATIVE_ICONS = "删除所有自定图标";
 FORCE_REFRESH = "逼刷新";
+ICON_OPTIONS = "图标定制...";
