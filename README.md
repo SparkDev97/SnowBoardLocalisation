@@ -30,5 +30,9 @@ Twitter:
 
 Discord:
 
+## Korean
+### BawAppie
+Twitter: [@BawAppie](https://tiwtter.com/BawAppie)
+
 [ST]: https://twitter.com/SparkDev_ "Spark's Twitter"
 [JJT]: https://twitter.com/JJGadgets "JJ's Twitter"

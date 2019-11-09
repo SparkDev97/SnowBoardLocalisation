@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "사용자 지정 모서리 둥글기";
+CUSTOM_ICON_SCALE = "사용자 지정 아이콘 크기";
+HIDE_LABELS = "이름표 숨기기";
+HIDE_LABEL_DOTS = "아이콘 점 숨기기";
+HIDE_ICON_TOUCH_OVERLAYS = "아이콘 터치 오버레이 숨기기";
+FORCE_LEGACY = "강제 레거시 지원";
+CLEAR_ALTERNATIVE_ICONS = "대체 아이콘 제거";
+FORCE_REFRESH = "강제 새로 고침";
+ICON_OPTIONS = "아이콘 옵션"
