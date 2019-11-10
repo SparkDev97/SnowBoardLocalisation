@@ -1,6 +1,6 @@
 ICON_SETTINGS = "图标设置";
 ENABLED = "启用";
-SELECT_THEME = "选择主题";
-ICON_OPTIONS = "图标选项";
+SELECT_THEME = "选择主题...";
+ICON_OPTIONS = "图标定制...";
 FOLLOW_SPARK = "关注 @SparkDev_";
 FOLLOW_DENNIS = "关注 @DennisBednarz";

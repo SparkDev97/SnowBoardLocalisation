@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "定制圖標圓度";
+CUSTOM_ICON_SCALE = "定制圖標大小";
+HIDE_LABELS = "隱藏標誌";
+HIDE_LABEL_DOTS = "隱藏頁面點";
+HIDE_ICON_TOUCH_OVERLAYS = "隱藏點擊圖標罩子";
+FORCE_LEGACY = "確保舊款兼容性";
+CLEAR_ALTERNATIVE_ICONS = "刪除所有自定圖標";
+FORCE_REFRESH = "刷新";
+ICON_OPTIONS = "圖標定制";
