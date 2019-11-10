@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "Raggio degli Angoli Personalizzato";
+CUSTOM_ICON_SCALE = "Scala Personalizzata delle Icone";
+HIDE_LABELS = "Nascondi Etichette";
+HIDE_LABEL_DOTS = "Nascondi i Puntini delle Etichette";
+HIDE_ICON_TOUCH_OVERLAYS = "Nascondi l'Overlay al tocco delle Icone";
+FORCE_LEGACY = "Forza Compatibilità Legacy";
+CLEAR_ALTERNATIVE_ICONS = "Resetta le Icone Alternative";
+FORCE_REFRESH = "Forza il Refresh";
+ICON_OPTIONS = "Opzioni delle Icone";
