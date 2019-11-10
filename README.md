@@ -12,6 +12,12 @@ Twitter: [@JJGadgets][JJT]
 
 Discord: JJGadgets#1337
 
+## French
+### relisiuol
+Twitter: [relisiuol](https://twitter.com/relisiuol)
+
+GitHub: [relisiuol](https://github.com/relisiuol)
+
 ## German
 ### Emy
 Twitter:

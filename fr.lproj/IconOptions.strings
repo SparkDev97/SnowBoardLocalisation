@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "Coin arrondi personnalisé";
+CUSTOM_ICON_SCALE = "Taille d'icone personnalisée";
+HIDE_LABELS = "Masquer les labels";
+HIDE_LABEL_DOTS = "Masquer les symboles points";
+HIDE_ICON_TOUCH_OVERLAYS = "Masquer le masque au touché";
+FORCE_LEGACY = "Forcer la compatibilité héritée";
+CLEAR_ALTERNATIVE_ICONS = "Effacer les icônes alternatives";
+FORCE_REFRESH = "Forcer le rafraîchissement";
+ICON_OPTIONS = "Options d'icone";
