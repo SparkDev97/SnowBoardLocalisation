@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "Zaoblení rohů";
+CUSTOM_ICON_SCALE = "Velikost ikon";
+HIDE_LABELS = "Schovat popisky";
+HIDE_LABEL_DOTS = "Schovat tečky u popisků";
+HIDE_ICON_TOUCH_OVERLAYS = "Schovat překryvné vrstvy ikon";
+FORCE_LEGACY = "Vynutit legacy kompatibilitu";
+CLEAR_ALTERNATIVE_ICONS = "Vyčistit alternativní ikony";
+FORCE_REFRESH = "Vynutit obnovení";
+ICON_OPTIONS = "Možnosti ikon";
