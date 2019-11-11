@@ -22,7 +22,7 @@ Twitter:
 
 Discord:
 
-### sutuplus
+### sutuplus
 Twitter: [HiCarby](https://twitter.com/HiCarby)
 
 Discord: redmine_cat#9293
