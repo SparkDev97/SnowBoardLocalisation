@@ -46,10 +46,8 @@ GitHub: [gkeep](https://github.com/gkeep)
 Discord: gkeep#2332
 
 ## Turkish
-### MustyAslan99
-Twitter:
-
-Discord:
+### Mustafa
+Twitter: [@MustyAslan99] (https://twitter.com/MustyAslan99)
 
 ## Korean
 ### BawAppie
