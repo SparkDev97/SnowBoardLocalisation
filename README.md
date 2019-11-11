@@ -23,9 +23,9 @@ Twitter:
 Discord:
 
 ## sutuplus
-Twitter:
+Twitter: [HiCarby](https://twitter.com/HiCarby)
 
-Discord:
+Discord: redmine_cat#9293
 
 ## French
 ### relisiuol
@@ -108,3 +108,4 @@ Discord:
 [JJT]: https://twitter.com/JJGadgets "JJ's Twitter"
 [PONCE54958]: https://twitter.com/PONCE54958 "PONCE54958's Twitter"
 [eve0415]: https://twitter.com/eve0415 "eve0415's Twitter"
+[HiCarby]: https://twitter.com/HiCarby "HiCarby's Twitter"
