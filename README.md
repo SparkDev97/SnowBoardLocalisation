@@ -8,7 +8,7 @@ Simply submit a pull request or contact SparkDev on Discord or [Twitter][ST].
 
 ## Brazilian Portuguese
 ### natobr
-Twitter:
+Twitter: 
 Discord: nato#1990
 
 ## Chinese
