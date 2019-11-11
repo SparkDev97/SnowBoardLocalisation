@@ -12,17 +12,17 @@ Twitter: [@JJGadgets][JJT]
 
 Discord: JJGadgets#1337
 
-## maaya1989
+### maaya1989
 Twitter:
 
 Discord:
 
-## Acreson
+### Acreson
 Twitter: 
 
 Discord:
 
-## sutuplus
+### sutuplus
 Twitter: [HiCarby](https://twitter.com/HiCarby)
 
 Discord: redmine_cat#9293
