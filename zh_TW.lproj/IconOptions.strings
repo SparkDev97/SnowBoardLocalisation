@@ -1,7 +1,7 @@
 CUSTOM_CORNER_RADIUS = "自定義邊角弧度";
 CUSTOM_ICON_SCALE = "自定義圖示大小";
 HIDE_LABELS = "隱藏圖示名稱";
-HIDE_LABEL_DOTS = "隱藏主畫面分頁點";
+HIDE_LABEL_DOTS = "隱藏新應用提示點";
 HIDE_ICON_TOUCH_OVERLAYS = "隱藏圖示觸摸效果";
 FORCE_LEGACY = "強制相容舊版";
 CLEAR_ALTERNATIVE_ICONS = "清除自定義圖示";
