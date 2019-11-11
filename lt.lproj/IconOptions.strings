@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "Pasirinktinis kampų spindulys";
+CUSTOM_ICON_SCALE = "Pasirinktinis piktogramų mastelis";
+HIDE_LABELS = "Paslėpti tekstus";
+HIDE_LABEL_DOTS = "Paslėpti tekstų taškus";
+HIDE_ICON_TOUCH_OVERLAYS = "Paslėpti liečianų piktogramų padengimus";
+FORCE_LEGACY = "Priverstinis pasenęs suderinamumas";
+CLEAR_ALTERNATIVE_ICONS = "Išvalyti alternatyvias piktogramas";
+FORCE_REFRESH = "Priverstinis atnaujinimas";
+ICON_OPTIONS = "Piktogramų parametrai";
