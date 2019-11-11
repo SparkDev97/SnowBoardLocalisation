@@ -47,7 +47,7 @@ Discord: gkeep#2332
 
 ## Turkish
 ### Mustafa
-Twitter: [@MustyAslan99] (https://twitter.com/MustyAslan99)
+Twitter: [@MustyAslan99](https://twitter.com/MustyAslan99)
 
 ## Korean
 ### BawAppie
