@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "Personalizar radio de esquina";
+CUSTOM_ICON_SCALE = "Personalizar escala de icono";
+HIDE_LABELS = "Ocultar equiquetas";
+HIDE_LABEL_DOTS = "Ocultar puntos de etiquetas";
+HIDE_ICON_TOUCH_OVERLAYS = "Ocultar toque en el icono";
+FORCE_LEGACY = "Forzar compatibilidad Legacy";
+CLEAR_ALTERNATIVE_ICONS = "Limpia iconos alternativos";
+FORCE_REFRESH = "Forzar a actualizar";
+ICON_OPTIONS = "Opciones de icono";
