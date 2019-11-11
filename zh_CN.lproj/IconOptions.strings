@@ -1,9 +1,9 @@
-CUSTOM_CORNER_RADIUS = "定制图标圆度";
-CUSTOM_ICON_SCALE = "定制图标大小";
-HIDE_LABELS = "隐藏标志";
-HIDE_LABEL_DOTS = "隐藏页面点";
-HIDE_ICON_TOUCH_OVERLAYS = "隐藏点击图标罩子";
-FORCE_LEGACY = "确保旧款兼容性";
-CLEAR_ALTERNATIVE_ICONS = "删除所有自定图标";
-FORCE_REFRESH = "刷新";
+CUSTOM_CORNER_RADIUS = "自定义边角弧度";
+CUSTOM_ICON_SCALE = "自定义图标大小";
+HIDE_LABELS = "隐藏图标名称";
+HIDE_LABEL_DOTS = "隐藏新应用左侧微标";
+HIDE_ICON_TOUCH_OVERLAYS = "隐藏图标触摸效果";
+FORCE_LEGACY = "强制兼容旧版";
+CLEAR_ALTERNATIVE_ICONS = "清除自定义图标";
+FORCE_REFRESH = "强制刷新";
 ICON_OPTIONS = "图标定制";
