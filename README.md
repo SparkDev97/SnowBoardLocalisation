@@ -101,6 +101,7 @@ Discord:
 ## Japanese
 ### eve0415
 Twitter: [eve0415](https://twitter.com/eve0415)
+
 Discord: 
 
 [ST]: https://twitter.com/SparkDev_ "Spark's Twitter"
