@@ -22,6 +22,11 @@ Twitter:
 
 Discord:
 
+## sutuplus
+Twitter:
+
+Discord:
+
 ## French
 ### relisiuol
 Twitter: [relisiuol](https://twitter.com/relisiuol)
@@ -93,6 +98,12 @@ Twitter: [PONCE54958](https://twitter.com/PONCE54958)
 
 Discord:
 
+## Japanese
+### eve0415
+Twitter: [eve0415](https://twitter.com/eve0415)
+Discord: 
+
 [ST]: https://twitter.com/SparkDev_ "Spark's Twitter"
 [JJT]: https://twitter.com/JJGadgets "JJ's Twitter"
 [PONCE54958]: https://twitter.com/PONCE54958 "PONCE54958's Twitter"
+[eve0415]: https://twitter.com/eve0415 "eve0415's Twitter"
