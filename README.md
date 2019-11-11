@@ -99,7 +99,7 @@ Twitter: [PONCE54958](https://twitter.com/PONCE54958)
 Discord:
 
 ## Japanese
-### eve0415
+### eve0415
 Twitter: [eve0415](https://twitter.com/eve0415)
 
 Discord: 
