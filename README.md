@@ -100,9 +100,9 @@ Discord:
 
 ## Japanese
 ### eve0415
-Twitter: [eve0415](https://twitter.com/eve0415)
+Twitter: [eve0415](https://twitter.com/eveevekun)
 
-Discord: 
+Discord: eve0415#3603
 
 ## Lithuanian
 ### nj0rr
