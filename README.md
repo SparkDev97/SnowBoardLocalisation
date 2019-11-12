@@ -6,6 +6,11 @@ Simply submit a pull request or contact SparkDev on Discord or [Twitter][ST].
 
 # Contributions
 
+## Brazilian Portuguese
+### natobr
+Twitter: 
+Discord: nato#1990
+
 ## Chinese
 ### JJ
 Twitter: [@JJGadgets][JJT]
