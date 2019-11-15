@@ -48,3 +48,6 @@ DELETE = "Delete";
 SHARE = "Share";
 DELETE_PRESET = "Delete Preset";
 DELETE_CONFIRM = "Are you sure you would like to delete preset \"%@\"";
+THEME_PACK = "Theme Pack";
+THEME = "Theme";
+THEME_INFO = "Theme Information";
