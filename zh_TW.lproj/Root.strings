@@ -1,0 +1,6 @@
+ICON_SETTINGS = "圖示設定";
+ENABLED = "啟用";
+SELECT_THEME = "選擇主題...";
+ICON_OPTIONS = "圖示定制...";
+FOLLOW_SPARK = "關注 @SparkDev_";
+FOLLOW_DENNIS = "關注 @DennisBednarz";

@@ -1,5 +1,5 @@
 ICON_SETTINGS = "Simge ayarları";
-ENABLED = "Etkinleştirildi";
+ENABLED = "Etkin";
 SELECT_THEME = "Tema seç...";
 ICON_OPTIONS = "Simge seçenekler...";
 FOLLOW_SPARK = "@SparkDev_ Takip et!";
