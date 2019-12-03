@@ -45,6 +45,6 @@ MISSING_THEMES = "থিমগুলি অনুপস্থিত";
 CONFIRM = "নিশ্চিত";
 WHAT_WOULD_DO = "আপনি কি করতে চান?";
 DELETE = "মুছে ফেলা";
-SHARE = "শেয়া";
+SHARE = "শেয়ার";
 DELETE_PRESET = "প্রিসেট মুছুন";
 DELETE_CONFIRM = "আপনি কি প্রিসেট মুছে ফেলার বিষয়ে নিশ্চিত \"%@\"";
