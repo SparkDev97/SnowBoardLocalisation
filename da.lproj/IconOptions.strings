@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "Brugerdefineret hjørne-radius";
+CUSTOM_ICON_SCALE = "Brugerdefineret ikon-størrelse";
+HIDE_LABELS = "Skjul app-navne";
+HIDE_LABEL_DOTS = "Skjul prikkerne ved app-navnene";
+HIDE_ICON_TOUCH_OVERLAYS = "Skjul ikonberørelses-overlay";
+FORCE_LEGACY = "Tving 'legacy' kompatibilitet";
+CLEAR_ALTERNATIVE_ICONS = "Ryd alternative ikoner";
+FORCE_REFRESH = "Tving genindlæsning";
+ICON_OPTIONS = "Ikon-indstillinger";
