@@ -32,6 +32,14 @@ Twitter: [HiCarby](https://twitter.com/HiCarby)
 
 Discord: redmine_cat#9293
 
+## Danish
+### YaYPIXXO
+Twitter: [@Ra1nPix](https://twitter.com/Ra1nPix)
+
+Discord: yaypixxo#6969
+
+GitHub: [viggou](https://github.com/viggou)
+
 ## French
 ### relisiuol
 Twitter: [relisiuol](https://twitter.com/relisiuol)
