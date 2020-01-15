@@ -97,11 +97,11 @@ Twitter:
 
 Discord:
 
-## Bangladesh
+## Bangla (Bangladesh)
 ### atifchy
-Twitter: 
+Twitter: [@atifchy_](https://twitter.com/atifchy_)
 
-Discord:
+Discord: Atif#3278
 
 ## Spanish (Latin American)
 ### PONCE54958
