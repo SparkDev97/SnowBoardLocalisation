@@ -7,3 +7,4 @@ FORCE_LEGACY = "Force Legacy Compatibility";
 CLEAR_ALTERNATIVE_ICONS = "Clear Alternative Icons";
 FORCE_REFRESH = "Force Refresh";
 ICON_OPTIONS = "Icon Options";
+FORCE_3X_ICONS = "Force 3x Icons";
