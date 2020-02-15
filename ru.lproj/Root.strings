@@ -1,6 +1,6 @@
-ICON_SETTINGS = "Настройки Иконок";
-ENABLED = "Включено";
-SELECT_THEME = "Выберете Тему...";
-ICON_OPTIONS = "Опции Иконок...";
-FOLLOW_SPARK = "Подпишитесь на @SparkDev_";
-FOLLOW_DENNIS = "Подпишитесь на @DennisBednarz";
+"ICON_SETTINGS" = "Настройки Иконок";
+"FOLLOW_SPARK" = "Подпишитесь на @SparkDev_";
+"FOLLOW_DENNIS" = "Подпишитесь на @DennisBednarz";
+"ENABLED" = "Включено";
+"ICON_OPTIONS" = "Опции Иконок...";
+"SELECT_THEME" = "Выберете Тему...";
