@@ -7,3 +7,4 @@ FORCE_LEGACY = "توافق إجباري مع القديم";
 CLEAR_ALTERNATIVE_ICONS = "مسح الأيقونات البديلة";
 FORCE_REFRESH = "تحديث إجباري";
 ICON_OPTIONS = "خيارات الأيقونة";
+FORCE_3X_ICONS = "إجبار أيقونات 3x";
