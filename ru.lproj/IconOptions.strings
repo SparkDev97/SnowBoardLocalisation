@@ -1,5 +1,5 @@
-CUSTOM_CORNER_RADIUS = "Пользовательский Радиус Углов";
-CUSTOM_ICON_SCALE = "Пользовательский Масштаб Иконок";
+CUSTOM_CORNER_RADIUS = "Радиус Углов";
+CUSTOM_ICON_SCALE = "Масштаб Иконок";
 HIDE_LABELS = "Скрыть Названия";
 HIDE_LABEL_DOTS = "Скрыть Точки Названий";
 HIDE_ICON_TOUCH_OVERLAYS = "Скрыть Иконку Touch Overlays";
@@ -7,3 +7,4 @@ FORCE_LEGACY = "Принудить Устаревшую Совместимост
 CLEAR_ALTERNATIVE_ICONS = "Очистить Альтернативные Иконки";
 FORCE_REFRESH = "Принудительно Обновить";
 ICON_OPTIONS = "Опции Иконок";
+FORCE_3X_ICONS = "Принудить 3x Иконкам";
