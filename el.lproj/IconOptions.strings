@@ -1,0 +1,10 @@
+CUSTOM_CORNER_RADIUS = "Τεχνητή ένταση γωνίας";
+CUSTOM_ICON_SCALE = "Τεχνητή Αναλογία εικονιδίων";
+HIDE_LABELS = "Απόκρυψη ετικετών";
+HIDE_LABEL_DOTS = "Απόκρυψη βούλας ετικετών";
+HIDE_ICON_TOUCH_OVERLAYS = "Απόκρυψη επικάλυψης αγγίγματος εικονιδίων";
+FORCE_LEGACY = "Υποχρεωτική συμβατότητα";
+CLEAR_ALTERNATIVE_ICONS = "Καθαρισμός εναλλακτικών εικονιδίων";
+FORCE_REFRESH = "Υποχρεωτική ανανέωση";
+ICON_OPTIONS = "Επιλογές εικονιδίων";
+FORCE_3X_ICONS = "Υποχρέωσε χρήση 3x Εικονίδι";
