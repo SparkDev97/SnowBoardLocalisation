@@ -9,4 +9,3 @@ FORCE_REFRESH = "Force Refresh";
 ICON_OPTIONS = "Icon Options";
 FORCE_3X_ICONS = "Force 3x Icons";
 HIDE_POPUP_LABEL = "Don't Show Apply Popup";
-HIDE_POPUP_WARNING = "Warning: If a respring (or uicache) is required by an extension to apply a theme, it may not be fully applied. With the warning disabled, you will not know if the extension requires a respring or to clear caches.";
