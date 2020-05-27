@@ -8,3 +8,4 @@ CLEAR_ALTERNATIVE_ICONS = "Καθαρισμός εναλλακτικών εικ�
 FORCE_REFRESH = "Υποχρεωτική ανανέωση";
 ICON_OPTIONS = "Επιλογές εικονιδίων";
 FORCE_3X_ICONS = "Υποχρέωσε χρήση 3x Εικονιδίων";
+HIDE_POPUP_LABEL = "Απόκρυψη ειδοποίησης εφαρμογής";
