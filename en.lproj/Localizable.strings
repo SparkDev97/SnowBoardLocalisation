@@ -58,3 +58,4 @@ DISABLE_DARK_MODE = "Disable for Dark Mode";
 HIDE_POPUP_WARNING = "Warning: If a respring (or uicache) is required by an extension to apply a theme, it may not be fully applied. With the warning disabled, you will not know if the extension requires a respring or to clear caches.";
 DATA_COLLECTION = "Data Collection Mode";
 DATA_COLLECTION_WARNING = "STOP! READ! IF YOU ARE NOT A DESIGNER OR DON'T KNOW WHAT THIS DOES, DO NOT ENABLE THIS SETTING.";
+DATA_COLLECTION_WARNING_TWO = "WARNING: DATA COLLECTION MODE IS ENABLED. THIS MAY CAUSE SLOWDOWNS OR OTHER ISSUES. IF YOU DO NOT MEAN TO HAVE THIS ENABLED, DISABLE IT FROM SNOWBOARD SETTINGS > EXTENSIONS > SNOWBOARD UI > SETTINGS.";
