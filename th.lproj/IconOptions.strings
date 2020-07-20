@@ -1,0 +1,12 @@
+CUSTOM_CORNER_RADIUS = "ความโค้งมนไอคอน";
+CUSTOM_ICON_SCALE = "ขนาดไอคอน";
+HIDE_LABELS = "ซ่อนชื่อไอคอน";
+HIDE_LABEL_DOTS = "ซ่อนจุดหน้าชื่อไอคอน";
+HIDE_ICON_TOUCH_OVERLAYS = "ไม่เปลี่ยนสีไอคอนเมื่อสัมผัส";
+FORCE_LEGACY = "บังคับการตั้งค่าดั้งเดิม สำหรับความเข้ากันได้";
+CLEAR_ALTERNATIVE_ICONS = "ล้างค่าไอคอน เสริม";
+FORCE_REFRESH = "ปรับปรุงใหม่ทันที";
+ICON_OPTIONS = "ตัวเลือกไอคอนเพิ่มเติม";
+FORCE_3X_ICONS = "บังคับ ไอคอน 3x";
+HIDE_POPUP_LABEL = "ซ่อนแถบชื่อกล่องข้อความ";
+SCALE_BADGES = "ขยายขนาดแถบแจ้งเตือนไปพร้อมไอคอน";
