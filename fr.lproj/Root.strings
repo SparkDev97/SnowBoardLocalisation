@@ -1,6 +1,6 @@
-ICON_SETTINGS = "Paramètres d'icone";	
-ENABLED = "Activé";
+ICON_SETTINGS = "Paramètres d'icône";	
+ENABLED = "Activer";
 SELECT_THEME = "Sélectionne un thème...";
-ICON_OPTIONS = "Options d'icone...";
+ICON_OPTIONS = "Paramètres d'icône...";
 FOLLOW_SPARK = "Suivre @SparkDev_";
 FOLLOW_DENNIS = "Suivre @DennisBednarz";
