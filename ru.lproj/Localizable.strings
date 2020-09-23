@@ -1,8 +1,8 @@
 EXTENSIONS = "Расширения";
 EXTENSION = "Расширение";
 THEMES = "Темы";
-GROUP = "Группа";
-UNGROUP = "Разгруппировать";
+GROUP = "Группировать";
+UNGROUP = "Разделить";
 RESPRING = "Перезапустить SpringBoard";
 ENABLE = "Включить";
 DISABLE = "Выключить";

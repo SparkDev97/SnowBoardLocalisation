@@ -1,11 +1,12 @@
 CUSTOM_CORNER_RADIUS = "Радиус углов";
 CUSTOM_ICON_SCALE = "Масштаб иконок";
-HIDE_LABELS = "Скрыть названия";
-HIDE_LABEL_DOTS = "Скрыть точки названий";
-HIDE_ICON_TOUCH_OVERLAYS = "Скрыть иконку Touch Overlays";
+HIDE_LABELS = "Скрывать названия";
+HIDE_LABEL_DOTS = "Скрывать точки названий";
+HIDE_ICON_TOUCH_OVERLAYS = "Скрывать иконку Touch Overlays";
 FORCE_LEGACY = "Принудить устаревшую совместимость";
 CLEAR_ALTERNATIVE_ICONS = "Очистить альтернативные иконки";
-FORCE_REFRESH = "Принудительно обновить";
+FORCE_REFRESH = "Обновить принудительно";
 ICON_OPTIONS = "Опции иконок";
 FORCE_3X_ICONS = "Принудить 3x иконкам";
 HIDE_POPUP_LABEL = "Не показывать всплывающее окно применения";
+SCALE_BADGES = "Масштабировать бэйджи с иконками"
