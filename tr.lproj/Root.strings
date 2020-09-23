@@ -1,6 +1,6 @@
-"ENABLED"="Etkin";
-"FOLLOW_DENNIS"="Takip Et @DennisBednarz";
-"FOLLOW_SPARK"="Takip Et @SparkDev_";
-"ICON_OPTIONS"="Simge Seçenekleri ...";
-"ICON_SETTINGS"="Simge Ayarları";
-"SELECT_THEME"="Tema Seç...";
+ICON_SETTINGS = "Simge Ayarları";	
+ENABLED = "Etkin";	
+SELECT_THEME = "Tema Seç...";	
+ICON_OPTIONS = "Simge Ayarları...";	
+FOLLOW_SPARK = "@SparkDev_'i Takip Et";	
+FOLLOW_DENNIS = "@DennisBednarz'ı Takip Et";
