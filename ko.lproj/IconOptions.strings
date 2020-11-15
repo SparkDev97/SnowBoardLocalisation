@@ -7,3 +7,6 @@ FORCE_LEGACY = "강제 레거시 지원";
 CLEAR_ALTERNATIVE_ICONS = "대체 아이콘 제거";
 FORCE_REFRESH = "강제 새로 고침";
 ICON_OPTIONS = "아이콘 옵션";
+FORCE_3X_ICONS = "강제 3x 아이콘";
+HIDE_POPUP_LABEL = "적용 팝업 표시 안함";
+SCALE_BADGES = "아이콘으로 뱃지 확장";
