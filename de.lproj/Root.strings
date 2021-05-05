@@ -1,6 +1,6 @@
-ICON_SETTINGS = "Symboleinstellungen";
 ENABLED = "Aktiviert";
-SELECT_THEME = "Wähle das Theme...";
-ICON_OPTIONS = "Symboloptionen...";
-FOLLOW_SPARK = "Folge @SparkDev_";
 FOLLOW_DENNIS = "Folge @DennisBednarz";
+FOLLOW_SPARK = "Folge @SparkDev_";
+ICON_OPTIONS = "Icon-Optionen...";
+ICON_SETTINGS = "Icon-Einstellungen";
+SELECT_THEME = "Theme wählen...";
