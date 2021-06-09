@@ -59,3 +59,6 @@ HIDE_POPUP_WARNING = "Warning: If a respring (or uicache) is required by an exte
 DATA_COLLECTION = "Data Collection Mode";
 DATA_COLLECTION_WARNING = "STOP! READ! IF YOU ARE NOT A DESIGNER OR DON'T KNOW WHAT THIS DOES, DO NOT ENABLE THIS SETTING. UI THEMING IS DISABLED WHILST THIS IS ENABLED! Pressing confirm will respring your device.";
 DATA_COLLECTION_WARNING_TWO = "WARNING: SNOWBOARD UI DATA COLLECTION MODE IS ENABLED. THIS MAY CAUSE SLOWDOWNS OR OTHER ISSUES. IF YOU DO NOT MEAN TO HAVE THIS ENABLED, DISABLE IT FROM SNOWBOARD SETTINGS > EXTENSIONS > SNOWBOARD UI > SETTINGS. THEN RESPRING. UI THEMING IS DISABLED WHILST THIS IS ENABLED!";
+OVERSIZED_ICONS_WARNING = "This theme contains one or more excessively large icons. This may degrade system performance and increase load times. For the best experience, make sure icon images conform to the specifications noted in Apple's human interface guidelines: https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/";
+LIST_LARGE_ICONS = "List Large Icons";
+OVERSIZED_ICONS = "Oversized Icons";
