@@ -1,0 +1,12 @@
+CUSTOM_CORNER_RADIUS = "Aangepaste hoekradius";
+CUSTOM_ICON_SCALE = "Aangepaste pictogramschaal";
+HIDE_LABELS = "Verberg labels";
+HIDE_LABEL_DOTS = "Labelpunten verbergen";
+HIDE_ICON_TOUCH_OVERLAYS = "Icoon-aanraakoverlays verbergen";
+FORCE_LEGACY = "Legacy-compatibiliteit afdwingen";
+CLEAR_ALTERNATIVE_ICONS = "Alternatieve pictogrammen wissen";
+FORCE_REFRESH = "Vernieuwen forceren";
+ICON_OPTIONS = "Pictogram Opties";
+FORCE_3X_ICONS = "Forceer 3x pictogrammen";
+HIDE_POPUP_LABEL = "Pop-up toepassen niet weergeven";
+SCALE_BADGES = "Badges schalen met pictogram";
