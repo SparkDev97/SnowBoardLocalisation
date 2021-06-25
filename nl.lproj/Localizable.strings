@@ -18,8 +18,7 @@ APPLY_REORDER = "Pas Reorder toe";
 APPLY_ONE = "Pas 1 verandering toe";
 APPLY_CHANGES = "Pas %d verandering toe";
 PLEASE_WAIT = "Wacht even...";
-EXTENSIONS_NEED_RESPRING_MESSAGE_SINGLE = "
-De volgende extensie dient mogelijk te worden herladen om volledig te worden toegepast:\n%@\n\nWil je dit nu doen?";
+EXTENSIONS_NEED_RESPRING_MESSAGE_SINGLE = "De volgende extensie dient mogelijk te worden herladen om volledig te worden toegepast:\n%@\n\nWil je dit nu doen?";
 EXTENSIONS_NEED_RESPRING_MESSAGE = "De volgende extensies dienen mogelijk te worden herladen om volledig te worden toegepast:\n%@\n\nWil je dit nu doen?";
 ALTERNATIVE_ICONS = "Alternatieven Iconen";
 ALTERNATIVES = "Alternatieven";
