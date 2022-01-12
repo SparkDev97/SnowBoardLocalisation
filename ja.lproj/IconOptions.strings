@@ -1,9 +1,11 @@
 ﻿CUSTOM_CORNER_RADIUS = "角の半径";
 CUSTOM_ICON_SCALE = "アイコンの大きさ";
-HIDE_LABELS = "ラベルを隠す";
-HIDE_LABEL_DOTS = "ラベルの点を隠す";
+SCALE_BADGES = "バッジの大きさ";
+HIDE_LABELS = "ラベルを非表示";
+HIDE_LABEL_DOTS = "ラベルのドットを非表示";
 HIDE_ICON_TOUCH_OVERLAYS = "アイコンタッチオーバーレイを非表示";
 FORCE_LEGACY = "レガシー互換性を強制";
+HIDE_POPUP_LABEL = "ポップアップラベルを非表示";
 CLEAR_ALTERNATIVE_ICONS = "代替アイコンをクリア";
 FORCE_REFRESH = "強制更新";
 ICON_OPTIONS = "アイコンの設定";
