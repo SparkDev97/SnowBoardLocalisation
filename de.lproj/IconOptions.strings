@@ -1,7 +1,7 @@
 CLEAR_ALTERNATIVE_ICONS ="Alternative Icons löschen";
-CUSTOM_CORNER_RADIUS = "Benutzerdefinierter Eckenradius";
-CUSTOM_ICON_SCALE = "Benutzerdefinierte Icongröße";
-FORCE_3X_ICONS = "Erzwinge 3x Icons";
+CUSTOM_CORNER_RADIUS = "Eigener Eckenradius";
+CUSTOM_ICON_SCALE = "Eigene Icongröße";
+FORCE_3X_ICONS = "3x Icons erzwingen";
 FORCE_LEGACY = "Legacy-Kompatibilität erzwingen";
 FORCE_REFRESH = "Aktualisierung erzwingen";
 HIDE_ICON_TOUCH_OVERLAYS = "Icon-Touch-Overlays ausblenden";
