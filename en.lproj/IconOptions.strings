@@ -10,3 +10,4 @@ ICON_OPTIONS = "Icon Options";
 FORCE_3X_ICONS = "Force 3x Icons";
 HIDE_POPUP_LABEL = "Don't Show Apply Popup";
 SCALE_BADGES = "Scale Badges With Icon";
+ENABLE_CARPLAY_LABEL = "Theme CarPlay";
